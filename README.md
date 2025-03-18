@@ -1,4 +1,4 @@
-# 🌟 UNITED
+# 🌟 Online Travel Booking
 
 ## 📌 Description
 It tells about online travel booking.
