@@ -1,8 +1,7 @@
-# 🌟 
+# 🌟 UNITED
 
 ## 📌 Description
-A brief overview of the project and what it does.
-
+It tells about online travel booking.
 ## 🎨 Demo Preview (HTML & CSS)
 Here is a simple **HTML & CSS** snippet from the project:
 
