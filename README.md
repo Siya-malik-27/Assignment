@@ -2,6 +2,7 @@
 
 ## 📌 Description
 Our online travel booking website provides a seamless and hassle-free way to plan and book your trips. Whether you're looking for flights, hotels, rental cars, or vacation packages, we offer a one-stop platform to compare prices, find the best deals, and make secure reservations.
+
 ## 🎨 Demo Preview (HTML & CSS)
 Here is a simple **HTML & CSS** snippet from the project:
 
@@ -41,3 +42,9 @@ Here is a simple **HTML & CSS** snippet from the project:
 </body>
 </html>
 
+
+## Collaborators 
+Ridhi Jain
+Siya Malik
+Ojasi Sharma
+Simran
